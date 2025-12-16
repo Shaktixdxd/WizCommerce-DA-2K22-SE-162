@@ -26,6 +26,7 @@ It follows the assignment brief in `Data-analyst-assignment-1.pdf` using three C
 │   └── Segmentation.sql        \# Funnel by country/device/source
 └── README.md
 
+ ```
 ---
 
 ## 2. Prerequisites
@@ -150,3 +151,4 @@ Anyone following this README can set up the environment, load the data, run the 
 > You do not need to copy the variable names or table aliases exactly.
 
 > Feel free to rename variables or reorganize queries as long as the logic remains the same.
+

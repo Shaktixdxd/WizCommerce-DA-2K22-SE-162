@@ -7,6 +7,7 @@ It follows the assignment brief in `Data-analyst-assignment-1.pdf` using three C
 
 ## 1. Folder structure
 
+ ```
 .
 ├── .venv/                      \# Python virtual environment
 ├── Data/
@@ -147,4 +148,5 @@ Anyone following this README can set up the environment, load the data, run the 
 **Note**
 > The code and SQL in this project are meant to show the overall analysis approach (funnel, segments, retention, etc.).
 > You do not need to copy the variable names or table aliases exactly.
+
 > Feel free to rename variables or reorganize queries as long as the logic remains the same.
